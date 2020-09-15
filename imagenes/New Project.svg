@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40">
+	<defs>
+		<image width="448" height="512" id="img1" href="data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhYiIgZGF0YS1pY29uPSJ0aWt0b2siIGNsYXNzPSJzdmctaW5saW5lLS1mYSBmYS10aWt0b2sgZmEtdy0xNCIgcm9sZT0iaW1nIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik00NDgsMjA5LjkxYTIxMC4wNiwyMTAuMDYsMCwwLDEtMTIyLjc3LTM5LjI1VjM0OS4zOEExNjIuNTUsMTYyLjU1LDAsMSwxLDE4NSwxODguMzFWMjc4LjJhNzQuNjIsNzQuNjIsMCwxLDAsNTIuMjMsNzEuMThWMGw4OCwwYTEyMS4xOCwxMjEuMTgsMCwwLDAsMS44NiwyMi4xN2gwQTEyMi4xOCwxMjIuMTgsMCwwLDAsMzgxLDEwMi4zOWExMjEuNDMsMTIxLjQzLDAsMCwwLDY3LDIwLjE0WiI+PC9wYXRoPjwvc3ZnPg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="tiktok-brands" href="#img1" transform="matrix(0.078,0,0,0.078,3,0)"/>
+</svg>
